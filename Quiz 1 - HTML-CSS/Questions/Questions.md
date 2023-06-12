@@ -23,14 +23,14 @@
 # Question 5
 
 1. Write a code for a [hyperlink](https://tutorial.eyehunts.com/html/html-hyperlink-tag-create-a-hyperlink-in-html/) that opens a new tab when clicked.
-2. website to hyperlink to - `https://www.mystrio.art/masked-man`
-   ![enter image description here](https://pm-technical-trainig.s3.ap-southeast-1.amazonaws.com/5.png)
+   1. website to hyperlink to - `https://www.mystrio.art/masked-man`
+      ![enter image description here](https://pm-technical-trainig.s3.ap-southeast-1.amazonaws.com/5.png)
 
 # Question 6
 
 1. Write HTML code to place the following web page into your web page.
-2. webpage link - `https://www.mystrio.art/`
-   ![enter image description here](https://pm-technical-trainig.s3.ap-southeast-1.amazonaws.com/6.png)
+   1. webpage link - `https://www.mystrio.art/`
+      ![enter image description here](https://pm-technical-trainig.s3.ap-southeast-1.amazonaws.com/6.png)
 
 # Question 7
 
@@ -39,6 +39,5 @@
 
 # Question 8
 
-1. Write HTML5 code to draw the given image using [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API).
-2. [HINT]: you might need some javascript 3. `ctx = canvas.getContext('2d')` - a method that returns an object for working on canvas. 4. `ctx.fillStyle` - a property of canvas and used to fill color gradient in the drawing 5. `ctx.fillRec` - a method is used to draw a filled rectangle.
+1. Write HTML5 code to draw the given image using [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API). 2. [HINT]: you might need some javascript 3. `ctx = canvas.getContext('2d')` - a method that returns an object for working on canvas. 4. `ctx.fillStyle` - a property of canvas and used to fill color gradient in the drawing 5. `ctx.fillRec` - a method is used to draw a filled rectangle.
    ![enter image description here](https://pm-technical-trainig.s3.ap-southeast-1.amazonaws.com/8.png)
