@@ -39,5 +39,9 @@
 
 # Question 8
 
-1. Write HTML5 code to draw the given image using [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API). 2. [HINT]: you might need some javascript 3. `ctx = canvas.getContext('2d')` - a method that returns an object for working on canvas. 4. `ctx.fillStyle` - a property of canvas and used to fill color gradient in the drawing 5. `ctx.fillRec` - a method is used to draw a filled rectangle.
+1. Write HTML5 code to draw the given image using [Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API). 
+   1. [HINT]: you might need some javascript 
+   2. `ctx = canvas.getContext('2d')` - a method that returns an object for working on canvas. 
+   3. `ctx.fillStyle` - a property of canvas and used to fill color gradient in the drawing 
+   4. `ctx.fillRec` - a method is used to draw a filled rectangle.
    ![enter image description here](https://pm-technical-trainig.s3.ap-southeast-1.amazonaws.com/8.png)
