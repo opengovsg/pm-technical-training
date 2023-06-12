@@ -22,12 +22,14 @@
 
 # Question 5
 
-1. Write a code for a [hyperlink](https://tutorial.eyehunts.com/html/html-hyperlink-tag-create-a-hyperlink-in-html/) that opens a new tab when clicked. 2. website to hyperlink to - `https://www.mystrio.art/masked-man`
+1. Write a code for a [hyperlink](https://tutorial.eyehunts.com/html/html-hyperlink-tag-create-a-hyperlink-in-html/) that opens a new tab when clicked.
+2. website to hyperlink to - `https://www.mystrio.art/masked-man`
    ![enter image description here](https://pm-technical-trainig.s3.ap-southeast-1.amazonaws.com/5.png)
 
 # Question 6
 
-1. Write HTML code to place the following web page into your web page. 2. webpage link - `https://www.mystrio.art/`
+1. Write HTML code to place the following web page into your web page.
+2. webpage link - `https://www.mystrio.art/`
    ![enter image description here](https://pm-technical-trainig.s3.ap-southeast-1.amazonaws.com/6.png)
 
 # Question 7
